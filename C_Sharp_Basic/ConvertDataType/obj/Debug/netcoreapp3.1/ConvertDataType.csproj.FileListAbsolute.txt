@@ -1,0 +1,13 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\bin\Debug\netcoreapp3.1\ConvertDataType.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\bin\Debug\netcoreapp3.1\ConvertDataType.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\bin\Debug\netcoreapp3.1\ConvertDataType.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\bin\Debug\netcoreapp3.1\ConvertDataType.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\bin\Debug\netcoreapp3.1\ConvertDataType.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\bin\Debug\netcoreapp3.1\ConvertDataType.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\obj\Debug\netcoreapp3.1\ConvertDataType.csprojAssemblyReference.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\obj\Debug\netcoreapp3.1\ConvertDataType.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\obj\Debug\netcoreapp3.1\ConvertDataType.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\obj\Debug\netcoreapp3.1\ConvertDataType.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\obj\Debug\netcoreapp3.1\ConvertDataType.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\obj\Debug\netcoreapp3.1\ConvertDataType.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\ConvertDataType\obj\Debug\netcoreapp3.1\ConvertDataType.genruntimeconfig.cache

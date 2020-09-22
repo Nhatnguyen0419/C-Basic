@@ -1,0 +1,13 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\bin\Debug\netcoreapp3.1\C_Sharp_Basic.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.csprojAssemblyReference.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\C_Sharp_Basic\obj\Debug\netcoreapp3.1\C_Sharp_Basic.genruntimeconfig.cache
