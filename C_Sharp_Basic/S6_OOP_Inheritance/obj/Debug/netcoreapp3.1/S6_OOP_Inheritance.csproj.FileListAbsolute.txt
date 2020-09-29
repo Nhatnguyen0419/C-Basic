@@ -1,0 +1,13 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\bin\Debug\netcoreapp3.1\S6_OOP_Inheritance.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\bin\Debug\netcoreapp3.1\S6_OOP_Inheritance.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\bin\Debug\netcoreapp3.1\S6_OOP_Inheritance.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\bin\Debug\netcoreapp3.1\S6_OOP_Inheritance.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\bin\Debug\netcoreapp3.1\S6_OOP_Inheritance.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\bin\Debug\netcoreapp3.1\S6_OOP_Inheritance.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\obj\Debug\netcoreapp3.1\S6_OOP_Inheritance.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\obj\Debug\netcoreapp3.1\S6_OOP_Inheritance.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\obj\Debug\netcoreapp3.1\S6_OOP_Inheritance.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\obj\Debug\netcoreapp3.1\S6_OOP_Inheritance.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\obj\Debug\netcoreapp3.1\S6_OOP_Inheritance.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\obj\Debug\netcoreapp3.1\S6_OOP_Inheritance.genruntimeconfig.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S6_OOP_Inheritance\obj\Debug\netcoreapp3.1\S6_OOP_Inheritance.csprojAssemblyReference.cache

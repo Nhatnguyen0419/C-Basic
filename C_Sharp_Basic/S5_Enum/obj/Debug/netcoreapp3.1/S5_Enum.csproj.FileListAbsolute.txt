@@ -1,0 +1,12 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\bin\Debug\netcoreapp3.1\S5_Enum.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\bin\Debug\netcoreapp3.1\S5_Enum.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\bin\Debug\netcoreapp3.1\S5_Enum.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\bin\Debug\netcoreapp3.1\S5_Enum.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\bin\Debug\netcoreapp3.1\S5_Enum.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\bin\Debug\netcoreapp3.1\S5_Enum.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\obj\Debug\netcoreapp3.1\S5_Enum.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\obj\Debug\netcoreapp3.1\S5_Enum.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\obj\Debug\netcoreapp3.1\S5_Enum.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\obj\Debug\netcoreapp3.1\S5_Enum.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\obj\Debug\netcoreapp3.1\S5_Enum.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S5_Enum\obj\Debug\netcoreapp3.1\S5_Enum.genruntimeconfig.cache
