@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HỌC TẬP\\C#\\C# Basic\\C_Sharp_Basic\\ConvertDataType\\S1_ConvertDataType.csproj",
-      "projectName": "S1_ConvertDataType",
-      "projectPath": "D:\\HỌC TẬP\\C#\\C# Basic\\C_Sharp_Basic\\ConvertDataType\\S1_ConvertDataType.csproj",
+      "projectUniqueName": "D:\\HỌC TẬP\\C#\\C# Basic\\C_Sharp_Basic\\Looping\\S3_Looping.csproj",
+      "projectName": "S3_Looping",
+      "projectPath": "D:\\HỌC TẬP\\C#\\C# Basic\\C_Sharp_Basic\\Looping\\S3_Looping.csproj",
       "packagesPath": "C:\\Users\\NhatNguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\HỌC TẬP\\C#\\C# Basic\\C_Sharp_Basic\\ConvertDataType\\obj\\",
+      "outputPath": "D:\\HỌC TẬP\\C#\\C# Basic\\C_Sharp_Basic\\Looping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

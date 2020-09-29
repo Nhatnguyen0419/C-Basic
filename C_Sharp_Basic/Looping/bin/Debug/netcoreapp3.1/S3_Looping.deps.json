@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "S1_ConvertDataType/1.0.0": {
+      "S3_Looping/1.0.0": {
         "runtime": {
-          "S1_ConvertDataType.dll": {}
+          "S3_Looping.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "S1_ConvertDataType/1.0.0": {
+    "S3_Looping/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

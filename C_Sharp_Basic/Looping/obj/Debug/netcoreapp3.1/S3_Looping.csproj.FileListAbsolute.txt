@@ -1,0 +1,13 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\obj\Debug\netcoreapp3.1\S3_Looping.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\obj\Debug\netcoreapp3.1\S3_Looping.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\obj\Debug\netcoreapp3.1\S3_Looping.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\bin\Debug\netcoreapp3.1\S3_Looping.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\bin\Debug\netcoreapp3.1\S3_Looping.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\bin\Debug\netcoreapp3.1\S3_Looping.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\bin\Debug\netcoreapp3.1\S3_Looping.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\bin\Debug\netcoreapp3.1\S3_Looping.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\bin\Debug\netcoreapp3.1\S3_Looping.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\obj\Debug\netcoreapp3.1\S3_Looping.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\obj\Debug\netcoreapp3.1\S3_Looping.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\obj\Debug\netcoreapp3.1\S3_Looping.genruntimeconfig.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Looping\obj\Debug\netcoreapp3.1\S3_Looping.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\bin\Debug\netcoreapp3.1\S4_OOP_Encapsulation.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\bin\Debug\netcoreapp3.1\S4_OOP_Encapsulation.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\bin\Debug\netcoreapp3.1\S4_OOP_Encapsulation.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\bin\Debug\netcoreapp3.1\S4_OOP_Encapsulation.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\bin\Debug\netcoreapp3.1\S4_OOP_Encapsulation.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\bin\Debug\netcoreapp3.1\S4_OOP_Encapsulation.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\obj\Debug\netcoreapp3.1\S4_OOP_Encapsulation.csprojAssemblyReference.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\obj\Debug\netcoreapp3.1\S4_OOP_Encapsulation.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\obj\Debug\netcoreapp3.1\S4_OOP_Encapsulation.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\obj\Debug\netcoreapp3.1\S4_OOP_Encapsulation.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\obj\Debug\netcoreapp3.1\S4_OOP_Encapsulation.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\obj\Debug\netcoreapp3.1\S4_OOP_Encapsulation.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S4_OOP_Encapsulation\obj\Debug\netcoreapp3.1\S4_OOP_Encapsulation.genruntimeconfig.cache
