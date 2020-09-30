@@ -1,0 +1,13 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\bin\Debug\netcoreapp3.1\S7_OOP_Polymorphism.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\bin\Debug\netcoreapp3.1\S7_OOP_Polymorphism.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\bin\Debug\netcoreapp3.1\S7_OOP_Polymorphism.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\bin\Debug\netcoreapp3.1\S7_OOP_Polymorphism.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\bin\Debug\netcoreapp3.1\S7_OOP_Polymorphism.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\bin\Debug\netcoreapp3.1\S7_OOP_Polymorphism.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\obj\Debug\netcoreapp3.1\S7_OOP_Polymorphism.csprojAssemblyReference.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\obj\Debug\netcoreapp3.1\S7_OOP_Polymorphism.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\obj\Debug\netcoreapp3.1\S7_OOP_Polymorphism.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\obj\Debug\netcoreapp3.1\S7_OOP_Polymorphism.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\obj\Debug\netcoreapp3.1\S7_OOP_Polymorphism.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\obj\Debug\netcoreapp3.1\S7_OOP_Polymorphism.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\S7_OOP_Polymorphism\obj\Debug\netcoreapp3.1\S7_OOP_Polymorphism.genruntimeconfig.cache
