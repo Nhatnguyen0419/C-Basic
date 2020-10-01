@@ -1,0 +1,12 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\bin\Debug\netcoreapp3.1\Delegate.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\bin\Debug\netcoreapp3.1\Delegate.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\bin\Debug\netcoreapp3.1\Delegate.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\bin\Debug\netcoreapp3.1\Delegate.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\bin\Debug\netcoreapp3.1\Delegate.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\obj\Debug\netcoreapp3.1\Delegate.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\obj\Debug\netcoreapp3.1\Delegate.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\obj\Debug\netcoreapp3.1\Delegate.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\obj\Debug\netcoreapp3.1\Delegate.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\Delegate\obj\Debug\netcoreapp3.1\Delegate.genruntimeconfig.cache

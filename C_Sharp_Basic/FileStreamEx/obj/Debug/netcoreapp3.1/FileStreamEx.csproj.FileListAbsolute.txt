@@ -1,0 +1,12 @@
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\bin\Debug\netcoreapp3.1\FileStreamEx.exe
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\bin\Debug\netcoreapp3.1\FileStreamEx.deps.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\bin\Debug\netcoreapp3.1\FileStreamEx.runtimeconfig.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\bin\Debug\netcoreapp3.1\FileStreamEx.runtimeconfig.dev.json
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\bin\Debug\netcoreapp3.1\FileStreamEx.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\bin\Debug\netcoreapp3.1\FileStreamEx.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\obj\Debug\netcoreapp3.1\FileStreamEx.AssemblyInfoInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\obj\Debug\netcoreapp3.1\FileStreamEx.AssemblyInfo.cs
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\obj\Debug\netcoreapp3.1\FileStreamEx.csproj.CoreCompileInputs.cache
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\obj\Debug\netcoreapp3.1\FileStreamEx.dll
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\obj\Debug\netcoreapp3.1\FileStreamEx.pdb
+D:\HỌC TẬP\C#\C# Basic\C_Sharp_Basic\FileStreamEx\obj\Debug\netcoreapp3.1\FileStreamEx.genruntimeconfig.cache
